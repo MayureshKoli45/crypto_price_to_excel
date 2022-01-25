@@ -21,7 +21,7 @@ This script contains 3 functions
 
 1) getCoinPrice(self, crypto_id, fiat_currency)
 This function takes a crypto_id which you need to find on coingecko website
-How to find it? --> Well just search for a coin and look for (API id) in info at right side copy that an paste if
+How to find it? --> Well just search for a coin and look for (API id) in info at right side copy that an paste it
 
 You need to include fiat currency in capital or lower (eg--> "INR", "USD", etc.)
 This will return a coin price 
